@@ -1390,16 +1390,6 @@
     background-color: var(--backgroundColor01) !important
 }
 
-#app-mount .focused-qp-W9B,
-#app-mount .header_c6bf1b,
-#app-mount .item-1BCeuB:hover,
-#app-mount .scroller_ff90b2,
-#app-mount .selected-22ukbQ,
-#app-mount .titleContainer_e29cd7,
-#app-mount .welcomeChannel__5579e {
-    background-color: var(--backgroundColor02) !important
-}
-
 #app-mount .settingsFormFieldWrapper-U99c9i {
     background-color: var(--backgroundColor02) !important;
     border: none !important
